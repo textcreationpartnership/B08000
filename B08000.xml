@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The descripcion of the sphere or the frame of the worlde, right worthy to be red and studyed on, of all noble wyttes, specially of all those that be desyrous to attayne any perfecte knowledge in cosmography, or true descripcion of reagions, townes, or countrees, / set forth by Proclus Diadochus, and  Englysshed by wyllyam [sic] Salysbury..</title>
+            <title>Sphaera. English. 1550</title>
+            <author>Proclus, ca. 410-485.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1550</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08000</idno>
+            <idno type="STC">STC 20398.7</idno>
+            <idno type="STC">ESTC S94797</idno>
+            <idno type="EEBO-CITATION">68222590</idno>
+            <idno type="OCLC">ocm 68222590</idno>
+            <idno type="VID">183784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183784)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2198:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The descripcion of the sphere or the frame of the worlde, right worthy to be red and studyed on, of all noble wyttes, specially of all those that be desyrous to attayne any perfecte knowledge in cosmography, or true descripcion of reagions, townes, or countrees, / set forth by Proclus Diadochus, and  Englysshed by wyllyam [sic] Salysbury..</title>
+                  <title>Sphaera. English. 1550</title>
+                  <author>Proclus, ca. 410-485.</author>
+                  <author>Salesbury, William, 1520?-1600                                          ?</author>
+               </titleStmt>
+               <extent>[44] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Robert Wyer,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1550 Feb. 11]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes marginal notes.</note>
+                  <note>Woodcut illustration on t.p.; initials.</note>
+                  <note>Imprint information from colophon which reads: Jmprynted by me Robert Wyer. Jn the yere of our Lorde GOD a. M.D.L. dwellyng at the sygne of saynt Johñ Euangelist, in saynt Martyns parysshe besyde Charynge crosse. And fynysshed the .xi. daye of Februarie. Cum priuilegio, ad imprimendum solum.</note>
+                  <note>Errata: p. [43].</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astronomy, Greek --  Early works to 1800.</term>
+               <term>Cosmology --  Early works to 1800.</term>
+               <term>Spherical astronomy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183784:1"/>
+            <pb facs="tcp:183784:1" rendition="simple:additions"/>
+            <p>¶ The deſcripcion of the Sphere or the frame of the worl<g ref="char:EOLunhyphen"/>de, ryght worthy to be red and ſtudyed on, of all noble wyttes, ſpecially of all thoſe that be deſyrous to attayne any perfecte knowledge in Coſmography, or true deſcripcion of Reagions, Tow<g ref="char:EOLhyphen"/>nes, or Countrees, ſet forth by Proclus Diadochus, and Englyſſhed by wyllyam Salyſbury.</p>
+            <p>
+               <figure>
+                  <figDesc>a king and queen</figDesc>
+                  <p>Ptholomeus.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183784:2"/>
+            <head>¶ To his verye louynge Coſyn, Iohn<g ref="char:cmbAbbrStroke">̄</g> Edwardes of Chryke Eſquyer, Wyllyam Sa<g ref="char:EOLhyphen"/>lyſbury, wiſſheth longe lyfe in contynuall health.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here as of la<g ref="char:EOLunhyphen"/>te dayes ye haue wryten vnto me to prouyde you ſome booke, trac<g ref="char:EOLunhyphen"/>tyng in Englyſſhe of the deſcrip<g ref="char:EOLunhyphen"/>tion of the Sphere of the world Nowe at the laſte I come in, w<hi rend="sup">t</hi> myne anſwere, whiche euen as it ſhal not altogyther lyke you, So I truſt (yf ye haue a reſpect to my beneuolence) It ſhall not vtterly myſlyke you. I walked my ſelf rounde aboute all Pou<g ref="char:EOLunhyphen"/>les churche yarde, from ſhop to ſhop enqueryng of ſuche a treac<g ref="char:EOLunhyphen"/>tyſe
+<pb facs="tcp:183784:2" rendition="simple:additions"/>neyther coulde I here of a<g ref="char:EOLhyphen"/>ny y<hi rend="sup">t</hi> eyther wrote of this mati<g ref="char:EOLhyphen"/>er propoſely, nor yet occaſionaly. But what trowe you dyd I than by my fayth ſyr, I returned bac<g ref="char:EOLunhyphen"/>ke euen the ſame way (but won<g ref="char:EOLunhyphen"/>drynge moche at the happe) and aſked agayne for the ſame wor<g ref="char:EOLhyphen"/>kes in latyn, wherof there were .iij. or foure of ſondry Aucthors brought, and ſhewed vnto me, a<g ref="char:EOLunhyphen"/>monge all which (for the breuy<g ref="char:EOLhyphen"/>te and playnes) I choſe Proclus his doynge. And this a Goddes name entended I than (for thac complyſhement of your wyll) to traducte into the Englyſhe ton<g ref="char:EOLhyphen"/>ge.<note place="margin">That was M. Thomas lynacte.</note> But wolde God that he whi<g ref="char:EOLunhyphen"/>che tranſlated it into the Latyn had taken ſo moche payne, for his countrey ſake as to engliſhe the ſame alſo. Englyſhe was his natyue tonge. Greke and Latyn
+<pb facs="tcp:183784:3"/>as well knowen where as Eng<g ref="char:EOLhyphen"/>lyſhe to me of late yeares, was wholy to learne, the Latyn not ta<g ref="char:EOLunhyphen"/>ſted of, the Greke not once harde of, whom although euen at this preſent I might rather and true lye with leſſe reproche denye to haue any knowledge in at all, than to profeſſe the perfect phra<g ref="char:EOLunhyphen"/>ſe of any of them three. Why than ſhall I attempte for any mans pleaſure to go aboute to tranſlate a Science vnknowen, out of a tonge vnknowen, into a tong no better knowen vnto me. Surely I am very loth to do it. But yet becauſe perhaps ye be ſo perſwaded that I can do ſom what therin and paraduenture wold take it for vnkyndnes that I wolde not take in hande, to proue the feyct to the vttermoſt of my power? I wyll therfore
+<pb facs="tcp:183784:3" rendition="simple:additions"/>wreſt it rather than truely tur<g ref="char:EOLhyphen"/>ne it, and that for lacke of far<g ref="char:EOLhyphen"/>ther connynge I can do none o<g ref="char:EOLhyphen"/>ther, that you may be aſſured, y<hi rend="sup">t</hi> yf oughte be well done in this matier, it floweth out rather of the vehement loue and feruente affection that youre manyfolde demerytes hath moſt depely en<g ref="char:EOLhyphen"/>graffed in my hart, than of any lernynge that I alredy was en<g ref="char:EOLhyphen"/>dued withal. Moreouer I know well that you ſtamer ſomwhat both in the Latyn tonge and in this ſcience alſo, and ſo do I in ſettyng forth of the ſame, wher fore you ſhall better vnderſtand me than a perfecter doer therin. And where you ar els excedyng<g ref="char:EOLunhyphen"/>ly well ſene in all Geometrycall Deuyſes, where you excell in all humaynefabricature and where you farre paſſe all other men in
+<pb facs="tcp:183784:4"/>vnyuerſall knowledge, fyne and ſubtyle practice in all the Ma<g ref="char:EOLhyphen"/>thematicall ſciences, yet beyng almoſte Ygnoraunt (for the ſel<g ref="char:EOLhyphen"/>domnes of the ſcience) in the ſpe<g ref="char:EOLunhyphen"/>culacion of the wonderful, good<g ref="char:EOLunhyphen"/>ly and dyuine fabricature of the world do ſo ferue<g ref="char:cmbAbbrStroke">̄</g>tly deſyre ſome knowledge therin, I can no leſſe but further you therto to the vt<g ref="char:EOLunhyphen"/>termoſte of that ſmall ſmatter that I haue. Promeſſynge far<g ref="char:EOLhyphen"/>ther that yf I perceyue you to profecte<g ref="char:cmbAbbrStroke">̄</g> any whytte therby I wyll (GOD wyllynge the ſame) be more earneſtly dylygent herafter in peruſyng my ſayd attemptes.</p>
+            <p>Thus fare ye well. </p>
+            <closer>
+               <dateline>At Thames Inne, in Houlborne.
+<date>Anno du<g ref="char:cmbAbbrStroke">̄</g>i. 1550.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:183784:4" rendition="simple:additions"/>
+            <head>¶ To the gentyll reader.</head>
+            <p>
+               <figure>
+                  <figDesc>a man wearing a hat and sword, surrounded by stars</figDesc>
+               </figure>
+            </p>
+            <p>
+               <seg rend="decorInit">I</seg>N this of all o<g ref="char:EOLhyphen"/>ther ſciences (ge<g ref="char:cmbAbbrStroke">̄</g>tle reader) I dare beſt entermedle as wel in wrytynge as o<g ref="char:EOLhyphen"/>therwyſe not that I of all men can beſt ſkyll on it, or that I can comprehende the celeſtyall rea<g ref="char:EOLhyphen"/>ſons, the ſubtyle ymaginacions
+<pb facs="tcp:183784:5"/>and the dyuyne myſteries of the Arte. But becauſe I knowe wel all the profeſſours of it, to be ſo fre and ſo gentyll harted, and of ſuche excellent humanytee and naturall Iudgement, that they wyll rather gladlye accepte and take in good worthe, my good wyll and all others which offer them ſelues into the nombre of theyr retinue, than reiect, deſpu<g ref="char:EOLunhyphen"/>te, and ſet at nought, where as the lewde maners of ſome that profeſſe other Scyences, is to gnarre, ſnuffe, and ſnatche, at whom ſoeuer ſhall vtter ought of his minde (ſpecially yf it ſwar<g ref="char:EOLunhyphen"/>ue but a heare bredth beſyde the lyne of theyr phantaſy) in theyr faculties, euen as thoughe they were neuer ygnoraunt them ſel<g ref="char:EOLunhyphen"/>ues therin, eyther by the repre<g ref="char:EOLhyphen"/>henſion of other, they myght at<g ref="char:EOLunhyphen"/>tayne
+<pb facs="tcp:183784:5" rendition="simple:additions"/>greater glory and eſtyma<g ref="char:EOLunhyphen"/>cion, eyther els that they clay<g ref="char:EOLhyphen"/>me to them ſelues a pryuate pro<g ref="char:EOLunhyphen"/>pertie in the Scyences onelye, but whiche ſo it be, it is ſmall commendacion worthy. Yet be<g ref="char:EOLhyphen"/>cauſe I am in a maner thorow<g ref="char:EOLhyphen"/>lye perſwaded that the doers in this heauenlye knowledge wyll rather gently, and brotherly cor<g ref="char:EOLunhyphen"/>recte a faulte, where faulte is, than malyciouſly eſpye out two for one. I wyll be ſo vn ſhame<g ref="char:EOLhyphen"/>faſtly bolde as to ſette be<g ref="char:EOLhyphen"/>fore them this meſſe of theſe myne vnrype fyrſte fruytes, truſtyng moch more to theyr gentyl<g ref="char:EOLhyphen"/>nes than in the worthy<g ref="char:EOLhyphen"/>nes of the prepara<g ref="char:EOLhyphen"/>cyon of the banket.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:183784:6"/>
+            <head>¶ Of the Axtree, and the Poles.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He<note n="*" place="margin">Thoro we met.</note> Diameter of the worlde is cal<g ref="char:EOLunhyphen"/>led his Axtree,<note place="margin">diameter is a ſyne that de<g ref="char:EOLhyphen"/>nideth a<g ref="char:EOLhyphen"/>ny fygu<g ref="char:EOLhyphen"/>rt into. ij equall partes.</note> wher aboute he moueth, and the endes of the Axtree are alſo called the Poles of the worlde. Of whom one is called the north Pole, &amp; the other the South Pole. The Northern is he that is alwayes ſene in our habytacion. And the Southern is that, whiche is neuer ſene a<g ref="char:EOLhyphen"/>boue our Horizon. And there be certayne places on earth where as the Pole that is euer in our ſyght, can not be ſene with them that dwell there. And the other Pole, whiche is euer out of our ſyght, is in ſyght to them. Agay<g ref="char:EOLunhyphen"/>ne
+<pb facs="tcp:183784:6" rendition="simple:additions"/>there is a place on earth whe<g ref="char:EOLunhyphen"/>re both the Poles haue euen ly<g ref="char:EOLhyphen"/>ke ſytuacion in the Horizon.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the Circles of the Sphere.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome of the cir<g ref="char:EOLhyphen"/>cles of the Sphere, beparallels, ſome be oblyque, ſome other go croſſe ouer the Poles. The<note n="†" place="margin">Equal dyſtaun<g ref="char:EOLhyphen"/>ce.</note> parallels are they, that haue the ſame Poles as the world hath. And there be .v. parallel circles. The Artik, the Eſtiuall tropik, the Equinoctiall, the Brumal tropik, the Antarctik. The Arc<g ref="char:EOLunhyphen"/>tik circle is euen the greateſt of all thoſe Circles that we haue contynually in ſyght, &amp; he ſcarce lye toucheth the Horizon in one poynete, and is altogether pre<g ref="char:EOLhyphen"/>uented
+<pb facs="tcp:183784:7"/>aboue the earth. And all the ſtarres that are included in this circle, neyther ryſe nor ſet, but a man ſhall eſpye them all the nyght longe kepe theyr cour<g ref="char:EOLunhyphen"/>ſe rounde aboute the Pole. And that Circle in our habitacion is drawen of the further fote of<note n="‡" place="margin">The great be<g ref="char:EOLunhyphen"/>te, other<g ref="char:EOLhyphen"/>wyſe cal<g ref="char:EOLunhyphen"/>led Char<g ref="char:EOLunhyphen"/>les way<g ref="char:EOLunhyphen"/>ne.</note> Vrſa maior. The<note n="✚" place="margin">Som<g ref="char:EOLhyphen"/>mer.</note> Eſtiuall cir<g ref="char:EOLunhyphen"/>cle is moſt Northward of al the circles that be made of the ſon<g ref="char:EOLhyphen"/>ne. Whom whan the Sonne re<g ref="char:EOLunhyphen"/>moueth into, he returneth backe from his ſo<g ref="char:cmbAbbrStroke">̄</g>mers circuite, than is the longeſt day of all the yere and the ſhorteſt night, and after this ſo<g ref="char:cmbAbbrStroke">̄</g>mer returne, the Sonne ſhall not be perceyued to progreſ<g ref="char:EOLunhyphen"/>ſe any ferther toward the north, but rather to recoyle into the con<g ref="char:EOLunhyphen"/>trary partes of the world, wher<g ref="char:EOLunhyphen"/>fore in Greke this Circle is cal<g ref="char:EOLhyphen"/>led<note n="†" place="margin">The returne.</note> Ionixos. The Equinocti<g ref="char:EOLhyphen"/>all
+<pb facs="tcp:183784:7" rendition="simple:additions"/>circle is the moſt greateſt of all the .v. parallel circles, and is ſo parted of the Horizon, that the one halfe circle is aboue the earth, the other halfe circle lyeth hyd vnder the Horizon. The ſon<g ref="char:EOLunhyphen"/>ne beynge in this circle cauſeth .ij. Equinoctials, one in the ſpryn<g ref="char:EOLunhyphen"/>ge tyme, and the other in Har<g ref="char:EOLhyphen"/>ueſt. The<note n="*" place="margin">Wyn<g ref="char:EOLhyphen"/>ter.</note> Brumal tropik, is a circle moſt South of all the cir<g ref="char:EOLhyphen"/>cles, that by the mouynge of the worlde be deſcribed of the ſonne, whiche whan the ſonne is once entred into, he turneth backe fro<g ref="char:cmbAbbrStroke">̄</g> his wynters progreſſe, than is the longeſt nyght, and the ſhor<g ref="char:EOLhyphen"/>teſt day in all the yere longe. And beyonde this wynter marcke, the ſonne progreſſeth neuer a whyt farther, but goeth into the other cooſtes of the worlde, wherfore this circle is alſo named Tho<g ref="char:EOLhyphen"/>nixos,
+<pb facs="tcp:183784:8"/>as who ſaye returnable. The<note n="†" place="margin">Right contrary to the Arctik,</note> Antarctik circle, is equal in quantytie and diſtaunce with the Arctik circle, and toucheth the Horizon in one poyncte, and his courſe is all together vnder neth the earth, and the Starres that be placed in this ar alway<g ref="char:EOLunhyphen"/>es inuiſible vnto vs. The grea<g ref="char:EOLhyphen"/>teſt of all the ſayd circles is the Equinoctial, and than the Tro<g ref="char:EOLunhyphen"/>pikes. And the leſte (I meane in our habitacion) ar the Arctikes and theſe circles muſt be vnder<g ref="char:EOLhyphen"/>ſtande without bredth, and be reaſoned of accordyng to the ſi<g ref="char:EOLhyphen"/>tuacio<g ref="char:cmbAbbrStroke">̄</g> of the ſtarres, and by the beholding of the<note n="†" place="margin">An in<g ref="char:EOLhyphen"/>ſtrument of geome<g ref="char:EOLunhyphen"/>tre.</note> Dioptra. And but ſuppoſed onely in our ima<g ref="char:EOLhyphen"/>gination. For there is no Circle ſene in al the heauen but onely<note n="‡" place="margin">Co<g ref="char:cmbAbbrStroke">̄</g>men<g ref="char:EOLunhyphen"/>ly called the waye to Ieru<g ref="char:EOLhyphen"/>ſalem, or the waye to ſaynte Iames.</note> Galaxias. As for al the reſt they be conceyued by imaginacion.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:183784:8" rendition="simple:additions"/>
+            <head>¶ The reaſon why fyue pa<g ref="char:EOLhyphen"/>rallel circles are onely in the Sphere.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Yue<note n="†" place="margin">Euen lyke fat.</note> parallel Circles alone, are wont to be deſcry<g ref="char:EOLunhyphen"/>bed in the Sphere not bycauſe there be no mo pa<g ref="char:EOLhyphen"/>rallels than theſe in al the worl<g ref="char:EOLunhyphen"/>de. For the Sonne maketh euery day one parallel circle equaly dy<g ref="char:EOLunhyphen"/>ſtaunt to the Equinoctiall (whi<g ref="char:EOLhyphen"/>che may well be perceyued) with the turnynge of the worlde: In ſo moch that .clxxxij. parallel cir<g ref="char:EOLunhyphen"/>cles twyſe be deſcrybed of the ſonne betwene the tropikes, for ſo many dayes are within the two returnes, and all the ſtar<g ref="char:EOLhyphen"/>res are daylye caryed withall, rounde aboute in the parallalel circles, Howe be it euer ye one of
+<pb facs="tcp:183784:9"/>them can not be ſet oute in the Sphere. And though they be pro<g ref="char:EOLunhyphen"/>fectable for dyuers thynges in<note n="*" place="margin">It is almoſte as moch to ſay as Aſtrono<g ref="char:EOLhyphen"/>mie.</note> Aſtrologia, yet is it impoſſyble y<hi rend="sup">t</hi> euen the ſtarres may be deſcry<g ref="char:EOLhyphen"/>bed in the Sphere, without all the parallel circles, or that the<note n="*" place="margin">length</note> Magnytude of dayes and nygh<g ref="char:EOLunhyphen"/>tes may be preciſely founde out, without the ſame parallels: but in as moche as they be not de<g ref="char:EOLhyphen"/>med to be ſo neceſſary for the fyr<g ref="char:EOLunhyphen"/>ſte Introduction of Aſtrologie, they are left out of the Sphere. But the fyue parallel circles for certayne ſpecial inſtruction that they exhybyte, for the fyrſte in ſyght of Aſtrologie be deſcribed in the Sphere. The Arctik cir<g ref="char:EOLhyphen"/>cle ſeuereth the Starres whiche we euer ſe: the Eſtiual tropik con<g ref="char:EOLunhyphen"/>tayneth the goyng backe of the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sonne, and it is the fur<g ref="char:EOLhyphen"/>thermoſte
+<pb facs="tcp:183784:9" rendition="simple:additions"/>parte of his progreſſe into the North. And the equinoc<g ref="char:EOLunhyphen"/>tial Circle contayneth the Equi<g ref="char:EOLunhyphen"/>noctials. And the Brumall tro<g ref="char:EOLhyphen"/>pik is the farther moſt poynct of the way of the ſonne toward the South, and is euen the marcke of the wynter returne. The An<g ref="char:EOLhyphen"/>tarctik Circle determyneth the Starres whom we can not ſe. And ſo ſeynge that they be very expedient for the introduction in to Aſtrologie they be ryght wor<g ref="char:EOLunhyphen"/>thy to take rome in the Sphere.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the apparaunce, &amp; none apparaunce of the fyue parallel circles.</head>
+            <p>ALſo of the ſayde fyue parallel circles, the Arctik circle appereth altogither aboue the earth. And the eſtiual tropik
+<pb facs="tcp:183784:10"/>circle is deuyded into .ij. partes of the Horizon: wherof the grea<g ref="char:EOLunhyphen"/>ter parte is aboue the earth and the leſſer lygheth vnderneth it. Neyther is this Tropik Circle equaly deuyded of the Horizon / in euery Towne and Countrey, but accordynge to the veriete of the Regions it hath diuerſities of vpryſynges: and this Eſtiual circle is more vnegually deuided in the Horizon to the<g ref="char:cmbAbbrStroke">̄</g> that dwell nerer the North than we do, and farther there is a place, where the Eſtiual tropik is wholy abo<g ref="char:EOLunhyphen"/>ue the erth. And vnto them that drawe nerer to the South than we, the Eſtiual Tropik is more vneuenly parted in the Horizon. Farthermore, there is a cooſte (but ſouth from vs) wherin the tropik Circle is equaly deuyded of the Horizon. But in our habi<g ref="char:EOLhyphen"/>tacion
+<pb facs="tcp:183784:10" rendition="simple:additions"/>the Eſtiuall tropik is ſo deuided of the Horizon, that the whole circle beyng deuyded into viij. partes .v. partes ſhall be a<g ref="char:EOLhyphen"/>boue the earth, and .iij. vnder the erth. And in dede, it ſemeth that Aratus ment by this<note n="‡" place="margin">A por<g ref="char:EOLhyphen"/>cion of the worl<g ref="char:EOLunhyphen"/>de betwe<g ref="char:EOLunhyphen"/>ne north &amp; South wherein is vary<g ref="char:EOLhyphen"/>acion of tymes. &amp;c.</note> Climat whan he wrote his Booke of Phaenomenon. Where as he ſpea<g ref="char:EOLunhyphen"/>kynge of this Eſtiual tropik cir<g ref="char:EOLunhyphen"/>cle ſaytth on this wyſe.</p>
+            <q>
+               <l>¶ Whan this Circle deuyded is, in to eyght partes euen iuſt,</l>
+               <l>Fyue partes aboue the erth and .iii. vnderneth remayne nedes muſt,</l>
+               <l>The reſtes Sonne in ſommer hot, from this returneth backe.</l>
+            </q>
+            <p>¶ And ſo of this diuiſion it folo<g ref="char:EOLunhyphen"/>weth, y<hi rend="sup">e</hi> day to be of .xv. equinoc<g ref="char:EOLunhyphen"/>tial houres, &amp; the nyght of .ix. e<g ref="char:EOLhyphen"/>quinoctiall houres long. And in the Horizon of Rodes, y<hi rend="sup">e</hi> Eſtiual tropik is ſo deuided of the horizo<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:183784:11"/>that the whole circle beyng deui<g ref="char:EOLhyphen"/>ded into .xviii. partes, there ſhal appere .xxix. deuiſyo<g ref="char:cmbAbbrStroke">̄</g>s aboue the horizon, &amp; .xix. vnder the erth, by which deuiſion it appereth that the longeſt day in y<hi rend="sup">e</hi> Rodes hath but .xiiij. equinoctiall houres in it, and the night .ix. Equinoctial houres, with .ij. half houres mo<g ref="char:EOLunhyphen"/>re beſyde. The Equinoctiall cir<g ref="char:EOLhyphen"/>cle in euery habytacion is ſo iuſt<g ref="char:EOLunhyphen"/>ly deuyded in the myddes by the Horizon, that the one halfcircle, of it is aboue the earth, and the other halfcircle is vndeneth the erth. And this is the cauſe that the<note n="†" place="margin">Equal Length of daye &amp; ryght.</note> Equinoctials happen al<g ref="char:EOLhyphen"/>wayes in this circle. The Bru<g ref="char:EOLhyphen"/>mal tropik circle is ſo deuidd of the Horizon that the leſſer parte ſhall be aboue the erth, and the greter parte vnder the erth, and the vnequalte of deuiſions hath
+<pb facs="tcp:183784:11" rendition="simple:additions"/>euen lyke diuerſite in all climats as it is ſuppoſed to be in the Eſtiual tropik circle, and by this meane the deuiſions of both the tropicall circles be precyſely cor<g ref="char:EOLhyphen"/>reſpondent eche to other. By rea<g ref="char:EOLhyphen"/>ſon wheof the longeſt day is of one length w<hi rend="sup">t</hi> the longeſt nyght, and the ſhorteſt day equal with the ſhorteſt nyght. The Antarc<g ref="char:EOLhyphen"/>tik Cyrcle euery whyt, lyeth hyd vnder the Horizon.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the bygnes of the .v. parallel Circles.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ut of the ſayd v. parallel circles, ſome kepe ſtyll the ſame bygnes tho<g ref="char:EOLhyphen"/>rowout al y<hi rend="sup">e</hi> world and of ſome the bygnes is alte<g ref="char:EOLhyphen"/>red by reaſon of the<note n="*" place="margin">Haby<g ref="char:EOLhyphen"/>racions.</note> Climats,
+<pb facs="tcp:183784:12"/>ſo that ſome Cyrcles be bygger than other, and ſome leſſer than other. The tropik circles and the Equinoctiall do no where alter theyr quantities, but the Arcti<g ref="char:EOLhyphen"/>kes varie in bygnes, for ſomwhe<g ref="char:EOLunhyphen"/>re they appere bygger, and ſom where leſſe. For vnto the North<g ref="char:EOLunhyphen"/>ward dwellers the arctik circles ſeme bygger: the Pole beynge rayſed on hygh, the arctik circle touchyng the Horizon muſt nede alſo appere bygger and bygger, continually, and vnto them that dwell farther North ſomtyme, the Eſtiual tropik ſhall wax the Arctik circle, ſo that the Eſtiual Circle and the Arctik alſo, mete together and be taken but in ſte<g ref="char:EOLunhyphen"/>de of one. And in places that be yet farther. North, the arctik cir<g ref="char:EOLunhyphen"/>cles ſhall appere greater than the Eſtiual tropik circle. Than
+<pb facs="tcp:183784:12" rendition="simple:additions"/>at the laſt, there is a place ſo far North, where that the Pole ap<g ref="char:EOLhyphen"/>pereth ouer head, and the arctik circle ſerueth for the Horizon, &amp; remayneth with it in the meuyn<g ref="char:EOLhyphen"/>ge of the world, and is as wyde as the equinoctiall: in ſo moche that the .iij. circles (to ſay) y<hi rend="sup">e</hi> arc<g ref="char:EOLunhyphen"/>tik, the equinoctial, and the Ho<g ref="char:EOLhyphen"/>rizon be placed in one ordre and ſytuacion. Agayne to them that dwel more South, the Poles ap<g ref="char:EOLhyphen"/>pere more lower, and the Arctik circles leſſer, yet agayne there is a place beyng South in reſpect of vs which lyeth vnder the equi<g ref="char:EOLhyphen"/>noctial where the Poles be vn<g ref="char:EOLhyphen"/>der the Horizon, and the Arctik Circles be altogether gone: ſo that of the fyue parallel Circles there remayne but thre circles, (that is) the two Tropiks, and the Equenoctiall.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:183784:13"/>
+            <head>¶ Of the nombre of the parallels.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Eyther for ſuche ſayenges, is it to be thoughte that there continue .v. parallels alwayes but ſo many to be ima<g ref="char:EOLunhyphen"/>gyned for our habytacion ſake, for in ſome Horizons, there be but .iij. parallels only, and there be habytacions on erth, where the eſtiual tropik circle toucheth the horizon: and euen for the tro<g ref="char:EOLunhyphen"/>pik Circle is the ſeconde taken, whiche is called the habitacion vnder the Pole. The thyrde ha<g ref="char:EOLhyphen"/>bitacion is of whom we ſpake a lytell before, which is named the habitacion vnder y<hi rend="sup">e</hi> equinoctial.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the ordre of the .v. parallel Circles.</head>
+            <pb facs="tcp:183784:13" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">W</seg>herfore, ney<g ref="char:EOLhyphen"/>ther the ordre of the fyue parallel Circles, is euery where the ſame, but in our habi<g ref="char:EOLhyphen"/>tacion the fyrſt ſhalbe called the Arctike, the ſeconde the Eſtiuall tropik, the thyrde the Equinocti<g ref="char:EOLunhyphen"/>all, the fourth the Brumall, the v. the Antarctik. But they that dwell more North than we, ſom tyme the fyrſte is accompted as the Eſtiuall tropik, the ſeconde as the Arctik: the thyrde as the Equinoctial: the .iiij. as the An<g ref="char:EOLhyphen"/>tarctik: the .v. as the brumal tro<g ref="char:EOLunhyphen"/>pik, &amp; bycauſe the arctik circle is wyder tha<g ref="char:cmbAbbrStroke">̄</g> the equinoctiall y<hi rend="sup">e</hi> ſay<g ref="char:EOLunhyphen"/>de ordre muſt nede be obſerued.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the power of the fyue Parallels.</head>
+            <pb facs="tcp:183784:14"/>
+            <p>
+               <seg rend="decorInit">L</seg>Ykewyſe, Ney<g ref="char:EOLhyphen"/>ther are the powers of the ſame .v. paral<g ref="char:EOLunhyphen"/>lel circles alyke. For the circle that is or eſtiual tro<g ref="char:EOLhyphen"/>pik is to<note n="‡" place="margin">Tois antipo<g ref="char:EOLhyphen"/>ſin.</note> them that dwell in a contrary habytacion, the Bru<g ref="char:EOLhyphen"/>mal tropik. Contrary wyſe that which vnto them is the Eſtiual tropik circle is the Brumall tro<g ref="char:EOLhyphen"/>pik vnto vs. But ſuche as dwell vnder y<hi rend="sup">e</hi> equinoctial, euen the .iij. circles be in power eſtiual tropi<g ref="char:EOLunhyphen"/>kes vnto them, I meane thoſe that dwell iuſt vnder the courſe of the Sonne, for in conferrynge one to another, that whiche is the Equinoctial with vs ſhalbe theyr Eſtiual tropik Circle. And both the Tropikes ſhalbe Bru<g ref="char:EOLhyphen"/>mals. So than the Eſtiual tro<g ref="char:EOLhyphen"/>pik circle may be ſayd by nature bnyuerſally all the worlde ouer,
+<pb facs="tcp:183784:14" rendition="simple:additions"/>whiche is next to y<hi rend="sup">t</hi> habitacion: therfore vnto the<g ref="char:cmbAbbrStroke">̄</g> that dwell vn<g ref="char:EOLhyphen"/>derthe equinoctial the equinocti<g ref="char:EOLunhyphen"/>al it ſelfe ſerueth for y<hi rend="sup">e</hi> eſtiual tro<g ref="char:EOLunhyphen"/>pik, as wherin y<hi rend="sup">e</hi> ſonne hath his courſe directly ouer theyr hed, &amp; all the parallel circles ſhall take the rome of the Equinoctials, beynge deuyded by equall deuy<g ref="char:EOLhyphen"/>ſyons in the Horizon.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the ſpace betwene the Parallels.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Eyther the ſpa<g ref="char:EOLhyphen"/>ces of the circles one from the other do re<g ref="char:EOLhyphen"/>mayne the ſame tho<g ref="char:EOLunhyphen"/>rowout all habytacions: but af<g ref="char:EOLunhyphen"/>ter the deſcription of the Sphe<g ref="char:EOLhyphen"/>res, they are dyſcuſſed on this ſorte. Let any Meridian be deui<g ref="char:EOLhyphen"/>ded in .lx. partes, the Aretik ſhal
+<pb facs="tcp:183784:15"/>be deſcribed from the Pole .lxvi. partes of. And the ſame on the other ſyde, ſhalbe .lxv. parte dy<g ref="char:EOLhyphen"/>ſtaunt from the Eſtiual, and the Equinoctial ſhalbe from eyther of the Poles .lxiiij. deuiſions of. The Brumal tropik circle ſtan<g ref="char:EOLhyphen"/>deth from the antarctik .lxv. par<g ref="char:EOLunhyphen"/>tes of. Neyther haue theſe Cir<g ref="char:EOLhyphen"/>cles the ſame diſtaunce betwne them in euery towne and Coun<g ref="char:EOLhyphen"/>trey. But the tropiks in euery de<g ref="char:EOLunhyphen"/>clynacion ſhall haue euen lyke ſpace from the Equinoctial. Yet haue not the tropiks equall ſpa<g ref="char:EOLunhyphen"/>ce from the Arctiks at euery Ho<g ref="char:EOLunhyphen"/>rizon, but in ſome place leſſe, and in ſome place more dyſtaunce. Lykewyſe the Arctiks haue not in euery declinacion one certay<g ref="char:EOLhyphen"/>ne ſpace fro<g ref="char:cmbAbbrStroke">̄</g> the Poles, but ſom<g ref="char:EOLhyphen"/>where leſſe, and ſomwhere more. All the Spheres, be made for
+<pb facs="tcp:183784:15" rendition="simple:additions"/>the Horizon of Grece.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the Colurs.</head>
+            <p>THere are Circles that go croſſe ouerthwart y<hi rend="sup">e</hi> Po<g ref="char:EOLhyphen"/>les which of ſome me<g ref="char:cmbAbbrStroke">̄</g> be called Colurs. And they be ſo framed that they conteyne within theyr circuite the Poles of the world. And be called<note n="†" place="margin">vnper perfect.</note> Colurs, by rea<g ref="char:EOLhyphen"/>ſon of thoſe porcyons of them that be not ſene. As for other cir<g ref="char:EOLunhyphen"/>cles they be ſene whole, the worl<g ref="char:EOLunhyphen"/>de mouyng rounde aboute. And there are certayne partes of the Colurs inuiſible, euen thoſe par<g ref="char:EOLunhyphen"/>tes that from the Antarctik lye hyd vnder the horizon. And theſe circles be ſygned by the tropical poyntes and they deuyded into .ij. equall partes, the circle that paſſeth thorowe the myddes of the zodiak.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:183784:16"/>
+            <head>¶ Of the zodiak.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Circle of the xij. ſygnes is<note n="‡" place="margin">Slont wyſe.</note> obly<g ref="char:EOLunhyphen"/>que and is compoun<g ref="char:EOLhyphen"/>ded of .iij. paralel cir<g ref="char:EOLunhyphen"/>cles: of whom .ij. are ſayd to ſho<g ref="char:EOLunhyphen"/>we the bredth of the zodiak, and one is called paſſynge thorowe the myd ſygnes: thus toucheth he the .ij. equall circles and pa<g ref="char:EOLhyphen"/>rallels, the Eſtiual tropik in the fyrſte degre of Cancer, and the Brumal tropik in the fyrſt degre of Capricorn. The bredth of the zodiake is .xij. degrees. This cir<g ref="char:EOLunhyphen"/>cle is called oblyque bycauſe he croſſeth ouer y<hi rend="sup">e</hi> parallels awrye.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the Horizon.</head>
+            <p>THe<note n="†" place="margin">The under.</note> Horizon is a Cir<g ref="char:EOLunhyphen"/>cle that ſondreth vs, the parte of the world ſene, from the
+<pb facs="tcp:183784:16" rendition="simple:additions"/>parte that can not be ſene, ſo he deuideth the whole Sphere of y<hi rend="sup">e</hi> world into .ii. partes, euen that he leueth the one halfe ſphere a<g ref="char:EOLhyphen"/>boue the erth, and thother half ſphere vnderneth the erth. And there be .ii. Horizons, one ſenſy<g ref="char:EOLhyphen"/>ble, the other ymagyned by vn<g ref="char:EOLhyphen"/>derſtandynge. The ſenſyble Ho<g ref="char:EOLhyphen"/>rizon is that, whiche of oure ſyght is lymyted at the vtmoſte of our<note n="‡" place="margin">Looke</note> kennynge. So that his Diameter is not paſſing. M. fur<g ref="char:EOLunhyphen"/>longes, euen thorowout. The ho<g ref="char:EOLhyphen"/>rizon that is ymagyned by vn<g ref="char:EOLhyphen"/>derſtandyng, is for the ſpecula<g ref="char:EOLhyphen"/>cion of the Sphere of the fyxed ſtares, and he deuideth the who<g ref="char:EOLhyphen"/>le world into .ii. partes. Wherfo<g ref="char:EOLhyphen"/>re there is not y<hi rend="sup">e</hi> ſame Horizon, thorowout euery habytacion &amp; towne, but to a mans<note n="‡" place="margin">Syght</note> wyttyn<g ref="char:EOLunhyphen"/>ge he remayneth the ſame for
+<pb facs="tcp:183784:17"/>the ſpace of .iiii. C. furlonges al<g ref="char:EOLunhyphen"/>moſt. So that the length of the dayes, the Clymat, and al the ap<g ref="char:EOLunhyphen"/>paraunces remayne the ſame ſtyll. But with the mo nomber of furlonges for the diuerſite of the habytacion, the Horizon, the Climate, yea and all the appa<g ref="char:EOLhyphen"/>raunces ſhall varie. So than the chaunge of habitacion muſt nedes happen in goynge South<g ref="char:EOLunhyphen"/>warde or Northward, beyonde .iiii. C. furlonges. And they that dwell in one parallel for euery ex<g ref="char:EOLunhyphen"/>cedynge great nombre haue a newe Horizon, but they kepe the ſame Climat and all the appa<g ref="char:EOLhyphen"/>raunces lykewyſe. the begynnin<g ref="char:EOLunhyphen"/>ges &amp; endynges of dayes chaun<g ref="char:EOLunhyphen"/>ce not at the ſelfe ſame tyme to all that dwel in the ſame paral<g ref="char:EOLunhyphen"/>lel. But after very exacte curio<g ref="char:EOLhyphen"/>ſite the leſt mouyng in the world
+<pb facs="tcp:183784:17" rendition="simple:additions"/>hyther or thyther, euen for euery poynct the Horizon is chaunged the Clymat and the apparaun<g ref="char:EOLhyphen"/>ces do varie. The Horizon in the Spheres is not after that ma<g ref="char:EOLhyphen"/>ner deſcrybed, for all the other circles are caried together from Eaſt to Weſt, with the mouyng of the world, and the Horizon is immounable by his owne nature as longe as he kepeth the ſame ſituacion. And ſo yf the Horizon were ſet out in Spheres whan they ſhulde be turned aboute, he myght ſo happen to moue, and ſomtyme to be ouerhead, and that were a thynge moſte incon<g ref="char:EOLhyphen"/>uenyent and fartheſt out of rea<g ref="char:EOLunhyphen"/>ſon in Sphere matier. yet for al hat, there may be a place aſ<g ref="char:EOLhyphen"/>ſygned for the horizon in the frame of the Sphere.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:183784:18"/>
+            <head>¶ Of the Meridian Circles.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He<note n="‡" place="margin">Myd daye,</note> Meridian is a cicrle that go<g ref="char:EOLhyphen"/>eth through the Po<g ref="char:EOLunhyphen"/>les of the worlde, &amp; thorowe the<note n="‡" place="margin">That poyncte is co<g ref="char:cmbAbbrStroke">̄</g>men<g ref="char:EOLhyphen"/>ly called zenith.</note> poynct that is iuſt ouer our hedes. In whom whan the ſonne is come to, he cauſeth myd day, and myd nyght. And this circle is alſo immouable in the worlde, as longe as the ſelfe ſame ſituacion is kept in all mo<g ref="char:EOLunhyphen"/>uynge of the worlde. Neyther is this circle drawe<g ref="char:cmbAbbrStroke">̄</g> in<note n="‡" place="margin">globes</note> Spheres that be paynted with ſtarres, by cauſe he is immouable and re<g ref="char:EOLhyphen"/>ceyueth no mutacion. But to mannes coniecture by wytte for iij. C. furlonges almoſt, the me<g ref="char:EOLunhyphen"/>ridian a bydeth the ſame. But af<g ref="char:EOLunhyphen"/>ter a more exacte ymaginacion,
+<pb facs="tcp:183784:18"/>for euery foote ſtepped into Eaſt or Weſt, there waxeth another meridian. But than go North or South euen .x. M. furlonges and the ſame meridian ſhall ſer<g ref="char:EOLunhyphen"/>ue but goynge from Eaſt Weſt warde altereth the meridian.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the Cyrcle Galaxias.</head>
+            <p>THe cyrcle of<note n="‡" place="margin">Called of the co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>men peo<g ref="char:EOLunhyphen"/>ple Wat<g ref="char:EOLunhyphen"/>lyng ſtre<g ref="char:EOLunhyphen"/>te, and in Waſhle, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> Galaxi<g ref="char:EOLhyphen"/>as is oblique alſo, and this to, goeth ouer the tropiks awry and it is of the ſubſtau<g ref="char:cmbAbbrStroke">̄</g>ce of fyne Cloudes, and the onely vyſyble circle in the heauens, neyther is it certayne what bredth he is of for it is narrower in one place than in another. And for that cauſe the circle Galaxias is left out in many Spheres. And it is one of the greateſt circles. And
+<pb facs="tcp:183784:19"/>they be called the greateſt Cir<g ref="char:EOLhyphen"/>cles which haue the ſame<note n="*" place="margin">Is eue<g ref="char:cmbAbbrStroke">̄</g> the myd<g ref="char:EOLunhyphen"/>delmoſte poyncte in a thin<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> cen<g ref="char:EOLhyphen"/>tre as the Sphere hath. And there be .vij. of the greateſt cir<g ref="char:EOLhyphen"/>cles, the Equinoctial, the zodi<g ref="char:EOLhyphen"/>ak, that whiche goeth thorowe the myddes of the ſygnes, and that whiche goeth by the Po<g ref="char:EOLhyphen"/>les, the Horizon of euery haby<g ref="char:EOLhyphen"/>tacion, the Maridian, and the circle of Galaxias.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the .v. zones.</head>
+            <p>THe outwarde facion of the erth is<note n="✚" place="margin">Koun He, as a Pall.</note> Sphericall and is deuyded into .v. zones, of whom .ii. whiche be aboute the Poles are called the colde ones, bycauſe they be very farre from vnder the courſe of the Sonne, and be lytell inhabyted for the great coulth: and their compaſſe is from the arctiks to the Poles
+<pb facs="tcp:183784:19" rendition="simple:additions"/>warde. And the zones that be next vnto them, becauſe they be meſurably ſytuat towardes the courſe of the ſonne be called tem<g ref="char:EOLunhyphen"/>porate, and aboute in the Fyr<g ref="char:EOLhyphen"/>mament vpon the tropiks and arctiks Circles, betwene whom they lye. Nowe the fyfth whiche emonge the ſayde .iiij. circles is myddelmoſt, for that it lygheth vnder the waye of ſonne is na<g ref="char:EOLhyphen"/>med the hotte, and it is deuided of the Equinoctial of the erth, into .ii. which lygheth and about, vnder the Equinocciall of the worlde. But of the two tempe<g ref="char:EOLhyphen"/>rate zones, one is inhabyted of them that be of our habytacion beynge in length nyghe a. C. M. furlonges, and in bredth, aboute halfe the ſame.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:183784:20"/>
+            <head>¶ Of the Celeſtiall Sygnes.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſygnes that be blaſed with ſtar<g ref="char:EOLunhyphen"/>res are deuyded in<g ref="char:EOLhyphen"/>to .iij. partes, ſome of them be placed in the circle of the zodiak. Some be called Northern, and ſome be called Southern. And they y<hi rend="sup">t</hi> be ſituat in the circle of y<hi rend="sup">t</hi> zodiak be xij.<note n="‡" place="margin">Lyue<g ref="char:EOLhyphen"/>lynges.</note> Beaſtes, whoſe names we haue declared in another place, in which .xij. beaſtes there are cer<g ref="char:EOLunhyphen"/>tayne ſtarres, who for certayne notable markes eſpied in them, haue taken theyr proper names for the fyxed ſtarres that be in the backe of Taurus be called<note n="*" place="margin">The. 7. ſtarres, whiche Maro<g ref="char:EOLhyphen"/>ners do vſe in tri<g ref="char:EOLunhyphen"/>enge of coſtes.</note> Pleiades. And the ſtarres that be placed in the head of Taurus be .v. in nombre and are called<note n="*" place="margin">7. ſtar<g ref="char:EOLunhyphen"/>res, in whoſe ry<g ref="char:EOLhyphen"/>ſing and goynge downe it lyghtlye rayneth; alway.</note>
+               <pb facs="tcp:183784:20" rendition="simple:additions"/>Hyades. And the Starre that ſtandeth before the fete of Ge<g ref="char:EOLhyphen"/>mini is called Propus, and that cloudelyke ſubſtaunce, that is in Cancer, is called<note n="*" place="margin">The Crybbe.</note> Praeſepe. And the two Starres that ſtande nyghe Preſepe are called<note n="†" place="margin">The Aſſes.</note> Aſini. And the bryght Starre that is in the harte of Leo, (ac<g ref="char:EOLhyphen"/>cordyng to the name of his pla<g ref="char:EOLhyphen"/>ce) is the Lyons harte, and it is called of ſome men, the Royall Starre, for that they that are borne vnder it are thoughte to haue a royall natiuite. The fay<g ref="char:EOLhyphen"/>re Starre that ſtyeketh at fyn<g ref="char:EOLhyphen"/>gers endes of the lefte hande of Virgo, is called the<note n="✚" place="margin">Or the eare.</note> Spike. But the lytell ſtarre that is fa<g ref="char:EOLhyphen"/>ſtened by the ryght wyng of Vir<g ref="char:EOLunhyphen"/>go is named Protrigetes. And the .iiij. Starres that be at the ryght handes ende of Aquarius
+<pb facs="tcp:183784:21"/>are called<note n="‡" place="margin">The water potte.</note> Vrna. The ſtarres that be ſpred one after another behynde Piſces tayle are called the lynes. And in the South ly<g ref="char:EOLhyphen"/>ne, there are .ix. Starres, and in the North lyne .v. The bryghte ſtarre that is ſene in the lynes ende is called<note n="†" place="margin">The Knotte.</note> Nodus. So ma<g ref="char:EOLunhyphen"/>ny are accompted for the Nor<g ref="char:EOLhyphen"/>thern as be ſet betwyxt the zodi<g ref="char:EOLunhyphen"/>ak and the North. And they be theſe<note n="†" place="margin">The great be<g ref="char:EOLunhyphen"/>re.</note> Vrſa maior.<note n="†" place="margin">The li<g ref="char:EOLunhyphen"/>teli bere,</note> Vrſa minor. And<note n="‡" place="margin">The drake, or Dragon.</note> Draco that lyeth betwyxt both. Vrſa<note n="‡" place="margin">or boo<g ref="char:EOLhyphen"/>res.</note> Arctophi<g ref="char:EOLunhyphen"/>lax<note place="margin">The crowne.</note> Corona, Engonaſin, the Serpentine, the Serpent, the Harpe, the Byrde, the Arow, the Egle, the Dolphyn, Protome Hippi, the Horſe that ſtandeth by Hipparchos, Cepheus, Caſſi<g ref="char:EOLhyphen"/>opeia, Andromeda, Perſeus,<note n="†" place="margin">The Dryuer.</note> Auriga, Deltoton. And he that was ſtellyfyed of Callimachus,
+<pb facs="tcp:183784:21" rendition="simple:additions"/>Bernykes heare. Agayne there be certayne ſtarres who for cer<g ref="char:EOLhyphen"/>tayne playne apparaunces that they haue in the<g ref="char:cmbAbbrStroke">̄</g>, haue had their names gyuen them. For the no table Starre that lyeth aboue the mydſh ankes of Arctophilar is called<note n="†" place="margin">This lyeth at the rayle of the great <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> Arcturus. And the ſhyning ſtarre that is ſet by the Harpe, euen by the name of the whole ſygne is called the Har<g ref="char:EOLhyphen"/>pe, and the Starres that be at the toppe of Perſeus lefte hande are named the Gorgo<g ref="char:EOLhyphen"/>nes. And the thycke ſmall ſtar<g ref="char:EOLhyphen"/>res that are eſpyed at the ryght handes poyncte of Perſeus, ma<g ref="char:EOLunhyphen"/>ke as it were a ſythe. And the cleare Starre that is ſet in the lefte ſhoulder of the Dryuer is called the Goote. But the two lytell ſtarres that be at the out termoſte of his hande be called
+<pb facs="tcp:183784:22"/>the Kyddes. And all thoſe be Southern ſygnes, that lye on the South ſyde of the zodiak. And theyr names be theſe. Ori<g ref="char:EOLhyphen"/>on, the Centaurus, the Beaſte that Centaurus holdeth in his hande. Thyrſylochus whom Centaurus ſetteth before, the ſenſar, the Southern fyſſhe, the Whale, the water powred of Aquarius, the floude of Orion, the South Crowne, whiche of ſome is named<note n="‡" place="margin">The he<g ref="char:EOLunhyphen"/>uenlyn<g ref="char:EOLhyphen"/>ge.</note> Vraniſkos, the Rodde that lygheth by Hip<g ref="char:EOLunhyphen"/>parchos. And agayne in theſe there be certayne ſtarres that haue taken theym propre na<g ref="char:EOLhyphen"/>mes. For the bryght ſtarre that is in Prokyon, is called Proky<g ref="char:EOLhyphen"/>on. And the Glyſterynge ſtarre that is in the Dogges mouth, for that ſhe is thought to cau<g ref="char:EOLhyphen"/>ſe more feruent heate, is called
+<pb facs="tcp:183784:22" rendition="simple:additions"/>the Dogge, euen by the name of the whole ſygne. The Starre that ſhyneth in the toppe of the ſtarne of Argo, is named Cano<g ref="char:EOLunhyphen"/>pus, and this is vneth ſene in the Rodes, excepte it be from hygh places. But in Alexandria, ſhe is not ſene at all, where the .iiij. parte of the ſygne, doth ſcantly appeare aboue the Horizon.</p>
+            <trailer>¶ FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>¶ Faultes eſcaped in Pryntynge.</head>
+            <p>¶ The fyrſt leafe, ſeconde page, rede Chyrk, for Chrykes.</p>
+            <p>Thyrde leafe, ſeconde page, the .xxi. lyne, rede Thauies, for Thames.</p>
+            <p>Syxte leafe, ſeconde page, laſt lyne, rede Tropicos, for Ionixios.</p>
+            <p>And in the .vii. leafe, fyrſte page, laſte lyne, rede Tropicos, for Thomxios.</p>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:183784:23"/>
+            <p>¶ Imprynted by me Robert wyer. In the yere of our Lorde GOD a. M.D.L. dwellyng at the ſygne of ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> Euange<g ref="char:EOLhyphen"/>liſt, in ſaynt Mar<g ref="char:EOLhyphen"/>tyns paryſ<g ref="char:EOLhyphen"/>ſhe be<g ref="char:EOLhyphen"/>ſyde Charynge croſſe.</p>
+            <p>
+               <g ref="char:cross">✚</g> ¶ And fynyſſhed the .xi. daye of Februarie.</p>
+            <p>¶ Cum priuilegio, ad im<g ref="char:EOLhyphen"/>primendum ſolum.</p>
+            <pb facs="tcp:183784:23"/>
+         </div>
+      </back>
+   </text>
+</TEI>
